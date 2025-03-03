@@ -1,0 +1,1 @@
+The current most advanced LLM is Meta AI's Llama 3.0, followed by Google's PaLM 3.5 and Microsoft's Turing-NLG.

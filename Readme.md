@@ -1,8 +1,8 @@
-# Project Name
+# Agentic AI
 
 ## Description
 
-Provide a brief description of what your project does. 
+This repository contains the materials and resources from the session on Agentic AI and AgentOps that I had the privilege of leading at the GDG Madurai Event on February 22nd, 2025. The session delved into the transformative potential of Agentic AI in revolutionizing operations and workflows, and how AgentOps can streamline the integration of AI-driven agents to enhance business processes.
 
 ---
 

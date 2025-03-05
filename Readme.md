@@ -63,8 +63,11 @@ Some projects may require environment variables. Check for a `.env.example` or d
 You can create a `.env` file in the root of the project and add the variables:
 
 Get `GROQ_API_KEY` from [Groq Console](https://console.groq.com/keys) 
+
 Get `AGENTOPS_API_KEY` from [AgentOps App](https://app.agentops.ai/settings/projects)
+
 you can get api key from [Agno App](https://app.agno.com/)
+
 ```env
 GROQ_API_KEY=value
 AGNO_API_KEY=value
